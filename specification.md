@@ -70,6 +70,10 @@ Standard params are:
 
 These are not required, and the engine is free to ignore them. It is also free to implement additional commands.
 
+### ping
+
+Asks the engine whether it is still alive.
+
 ### stop
 
 Engine should stop thinking and send its best move.
@@ -131,6 +135,10 @@ sent in responce to a "ping" command, as soon as possible. It indicates that the
 ###  ready:
 
 indicates that the engine is ready to receive commands.
+
+### error [msg]:
+
+Indicates something went wrong. Msg is optional.
 
 ##  Footnote:
 
