@@ -27,7 +27,7 @@ As an extention to PTN, x may be used to indicate a null move.
 
 this is always the first command given to the engine. It responds with an id command, then lists all its options, then finally "ready".
 
-###d ebug [on|off]:
+### debug [on|off]:
 
 Set debug on or off. When debug is on the engine 
 
