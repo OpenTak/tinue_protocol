@@ -1,4 +1,4 @@
-# Tak INterface for Universal Engines (TINUE)^1
+# Tak INterface for Universal Engines (TINUE) (1)
 
 Version 0.1
 
