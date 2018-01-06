@@ -29,7 +29,7 @@ this is always the first command given to the engine. It responds with an id com
 
 ### debug [on|off]:
 
-Set debug on or off. When debug is on the engine 
+Set debug on or off. When debug is on the engine should (but is not required to) issue additional information to aid debugging.
 
 ### position [size|tps] [ptn]:
 
