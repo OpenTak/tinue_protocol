@@ -47,6 +47,10 @@ position 3 a1 c2
 
 sets engine options.
 
+### isready:
+
+Asks the engine to return "ready" when it is ready to accept commands.
+
 ### go [params]:
 
 Start thinking about a move. Should return "ready" as soon as it can, though. This is invalid if "position" has not been set. Params are:
