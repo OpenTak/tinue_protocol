@@ -35,7 +35,7 @@ Set debug on or off. When debug is on the engine should (but is not required to)
 
 Set up a new game, with a board of the given size, or set out according to a given TPS.
 
-The PTN is optional, and indicates moved played from the given position.
+The PTN is optional, and indicates moved played from the given position. An implementation should be able to handle any additional tags included, move numbers and commentary (defined by curly braces: {}), all of which may be ignored.
 
 Examples:
 
