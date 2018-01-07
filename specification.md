@@ -68,8 +68,7 @@ Standard params are:
 - movetime [val]: search val milliseconds only.
 - stones1 [val]: total stones player 1 has left.
 - stones2 [val]: total stones player 2 has left.
-- matchscore1 [val]: player 1's total score in the match
-- matchscore2 [val]: player 2's total score in the match
+- matchscore [val]: player 1's total score - player 2's total score in the match
 - gamesleft [val]: number of games left in the match
 
 These are not required, and the engine is free to ignore them. It is also free to implement additional commands.
